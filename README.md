@@ -1,2 +1,2 @@
-# react-props-practice
-409. React Props - Practice from Angela Yu's Web Development Course 
+# react-props
+409. React Props - from Angela Yu's Web Development Course 
